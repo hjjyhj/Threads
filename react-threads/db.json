@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user_uuid": "c45473a6-e069-4e97-8ba2-6bc61b6c27a1",
+      "username": "John Kim",
+      "handle": "johnkim",
+      "bio": "I am John Kim",
+      "link": "https://hojungkimm.com",
+      "img": "https://i.imgur.com/LBQae5F.jpg",
+      "instagram_url": "https://www.instagram.com/iamjohnkimm/",
+      "followers": [
+        {
+          "user_uuid" : "4bb82cce-03bb-4bed-82e2-059a291f9331"
+        },
+        {
+          "user_uuid" : "4bc421ca-0927-494d-ab49-2ed035cee127"
+        },
+        {
+          "user_uuid" : "3f2091ef-64d3-472a-b190-38ec8df11e79"
+        }
+      ]
+    }
+  ],
+  "threads": [
+
+  ]
+} 
